@@ -1,1 +1,1 @@
-# Gun-Game made by Daniel Popa % Marian Dumitru
+# Gun-Game made by Daniel Popa & Marian Dumitru
